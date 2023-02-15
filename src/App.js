@@ -10,7 +10,7 @@ import Home from './pages/Home';
 import Footer from "./components/Footer";
 import Single from './pages/Single';
 import Write from './pages/Write';
-import "./style.scss"
+import "./style.scss";
 
 
 const Layout = ()=>{
